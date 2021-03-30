@@ -1,0 +1,438 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    margin: 0 auto;
+}
+
+.return {
+    position:absolute;
+    width: 70px;
+    left: 25px;
+    top: 25px;
+}
+
+.copy {
+    display: flex;
+    justify-content:space-evenly
+}
+
+.copyright {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 510;
+    font-size: 20px;
+    text-align: left;
+}
+
+.black2 {
+    top: 1000px;
+    background-color: black;
+    padding: 30px;
+}
+
+/* tour */
+
+.tourgif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.tour-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.tour-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.tour-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.tour-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* fou */
+
+.fougif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.fou-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.fou-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.fou-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.fou-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* cavalier */
+
+.cavaliergif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.cavalier-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.cavalier-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.cavalier-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.cavalier-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* roi */
+
+.roigif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.roi-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.roi-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.roi-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.roi-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* dame */
+
+.damegif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.dame-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.dame-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.dame-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.dame-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* pion */
+
+.piongif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.pion-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.pion-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.pion-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.pion-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* prise en passant */
+
+.priseenpassantgif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.priseenpassant-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.priseenpassant-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.priseenpassant-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.priseenpassant-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* roque */
+
+.roquegif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.roque-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.roque-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.roque-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.roque-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+/* promotion */
+
+.promotiongif {
+    position: absolute;
+    width: 700px;
+    left: 835px;
+    top: -135px;
+}
+
+.promotion-title {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 42px;
+}
+
+.promotion-title2 {
+    position: absolute;
+    font-size: 95px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 185px;
+    top: 410px;
+}
+
+.promotion-text {
+    position: absolute;
+    top: 230px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+.promotion-text2 {
+    position: absolute;
+    top: 595px;
+    margin-left: 170px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(58, 58, 58);
+    font-weight: 700;
+}
+
+
